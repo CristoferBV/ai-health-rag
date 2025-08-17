@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-openai
+chromadb
+pydantic>=2
+fastapi
+uvicorn[standard]
+python-dotenv
+sentence-transformers
